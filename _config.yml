@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ryan Zhou"
   avatar           : "profile.png"
-  bio              : "PhD Student in AI at Queen's University"
+  bio              : "PhD Student at Queen's University"
   location         : "Kingston"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "ryanzhou@gmail.com"
+  email            : "20rz11 at queensu.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
