@@ -4,4 +4,4 @@ excerpt: "This project develops an implicit way of representing neural networks 
 collection: projects
 ---
 
--Under construction-
+Under construction. In the meantime, you can see the project page [here](/publication/2022-01-neuron-embedding)
