@@ -1,6 +1,6 @@
 ---
 title: "Permutation-Invariant Representation of Neural Networks with Neuron Embeddings"
-excerpt: "This project develops an implicit way of representing neural networks to facilitate transplanting of neurons between models."
+excerpt: "This project develops an implicit way of representing neural networks to facilitate transplanting of neurons between models. <br/> <img src='/images/neuron_embedding_overview.png'>"
 collection: projects
 ---
 
