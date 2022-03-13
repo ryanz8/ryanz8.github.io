@@ -1,6 +1,6 @@
 ---
 title: "Graph Memory LSTMs: Learning Graph Relationships in Spatiotemporal Data for Time Series Forecasting"
-excerpt: "Overview of the paper Graph Memory LSTMs: Learning Graph Relationships in Spatiotemporal Data for Time Series Forecasting <br/> <img src="https://ryanz8.github.io/images/architecture.png" width="400" />"
+excerpt: "Overview of the paper Graph Memory LSTMs: Learning Graph Relationships in Spatiotemporal Data for Time Series Forecasting <br/> <img src="https://ryanz8.github.io/images/architecture.png" width="400">"
 collection: projects
 ---
 
