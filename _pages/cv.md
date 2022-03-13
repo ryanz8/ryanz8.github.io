@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D in Artificial Intelligence, Queen's University, (in progress)
 * M.Sc. in Data Science and Machine Learning, Trent University
 * B.E. in Engineering Physics/Applied Physics, Cornell University
 
-Research experience
-======
+## Research experience
 * PhD Student at Queen's University  
 My PhD research is on uncovering interactions in complex networks in order to build better machine learning models. I work on interpreting neural networks, bioinformatics, and neuroevolution/neural architecture search.Projects:
   * Permutation-invariant representation of neural networks (accepted to EvoStar 2022)
@@ -39,8 +37,7 @@ My PhD research is on uncovering interactions in complex networks in order to bu
   * Assembled injection lock for diode laser from schematics.
   * Built simulations using MATLAB to test control theory models and compare with experimental data.
 
-Teaching experience
-======
+## Teaching experience
 * Course Instructor at Trent Univeristy (2020)
   * Developed and taught Math 1080H at Trent University. Students learned real-world applications of logic, geometry, financial math and statistics.
 
@@ -54,8 +51,7 @@ Teaching experience
   * Taught classes in Python and computer algebra systems.
   * Wrote and graded quizzes and assignments, held office hours and provided extra tutoring to students.
 
-Volunteer experience
-======
+## Volunteer experience
 * Consultant for Little Forest Kingston (2021-2022)
   * Worked with other PhD students to design a toolkit for local youth to assess the climate resilience of their neighbourhoods.
 
