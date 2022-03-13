@@ -17,12 +17,10 @@ Education
 
 Research experience
 ======
-* Doctoral Student at Queen's University  
-Researching interpretable neural networks, and evolutionary neural architecture search and optimization for biomedical applications.
-Projects:
-  * Permutation-invariant representation of neural networks
-  * Evolutionary neural architecture search through dropout
-  * Inducing modular structure in neural networks for interpretability
+* PhD Student at Queen's University  
+My PhD research is on uncovering interactions in complex networks in order to build better machine learning models. I work on interpreting neural networks, bioinformatics, and neuroevolution/neural architecture search.Projects:
+  * Permutation-invariant representation of neural networks (accepted to EvoStar 2022)
+  * Evolving modular, interpretable neural networks
   * Reinforcement learning for landmark detection in medical images
 
 * MSc Student at Trent University (2018-2020)  
@@ -46,7 +44,23 @@ Teaching experience
 * Course Instructor at Trent Univeristy (2020)
   * Developed and taught Math 1080H at Trent University. Students learned real-world applications of logic, geometry, financial math and statistics.
 
+* Graduate Teaching Assistant at Queen's University (2022-)
+  * Currently head TA for a team of 7 TAs.
+  * Taught, graded, and ran office hours for neural networks, evolutionary computing, and algorithms.
+  * Coordinated grading for all TAs and responded to student grade inquiries.
+
 * Graduate Teaching Assistant at Trent University (2017-2019)
   * Taught seminars in multivariable calculus, physics, discrete mathematics and combinatorics.
   * Taught classes in Python and computer algebra systems.
   * Wrote and graded quizzes and assignments, held office hours and provided extra tutoring to students.
+
+Volunteer experience
+======
+* Consultant for Little Forest Kingston (2021-2022)
+  * Worked with other PhD students to design a toolkit for local youth to assess the climate resilience of their neighbourhoods.
+
+* Information Officer for Graduate Computing Society (2020-2022)
+  I'm the information officer for our graduate student society in the Queen's School of Computing.
+  * Maintain the website and our online presence.
+  * Market and advertise events and coordinate with other groups to organize them.
+  * Attend departmental meetings such as faculty hiring interviews.
