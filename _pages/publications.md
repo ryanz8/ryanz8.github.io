@@ -27,7 +27,7 @@ You can download the paper [here](/files/NeuronEmbedding.pdf).
 
 **Abstract**: Errors are always present in predictions produced by machine learning models. Producing a quantitative estimate of the uncertainty in a model’s output is crucial for many fields, especially those where predictive models drive important decisions. In this paper we discuss two methods for producing prediction intervals for neural network, random forest, and gradient boosted tree models. We then evaluate the prediction intervals produced by each algorithm by predicting the expected ride length for a NYC taxi trip dataset. We show that inductive conformal prediction produces the most reliable intervals for all machine learning models investigated.
 
-## Permutation-Invariant Representation of Neural Networks with Neuron Embeddings
+## Estimating Energy Forecasting Uncertainty for Reliable AI Autonomous Smart Grid Design
 **Authors**: Maher Selim, **Ryan Zhou**, Wenying Feng, Peter Quinsey
 
 **Venue**: Energies 2021
@@ -40,6 +40,9 @@ You can download the paper [here](/files/NeuronEmbedding.pdf).
 **Venue**: International Conference on Computers and Their Applications (CATA) 2020
 
 **Abstract**: Many statistical and machine learning models for prediction make use of historical data as an input and produce single or small numbers of output values. To forecast over many timesteps, it is necessary to run the program recursively. This leads to a compounding of errors, which has adverse effects on accuracy for long forecast periods. In this paper, we show this can be mitigated through the addition of generating features which can have an “anchoring” effect on recurrent forecasts, limiting the amount of compounded error in the long term. This is studied experimentally on a benchmark energy dataset using two machine learning models LSTM and XGBoost. Prediction accuracy over differing forecast lengths is compared using the forecasting MAPE. It is found that for LSTM model the accuracy of short term energy forecasting by using a past energy consumption value as a feature is higher than the accuracy when not using past values as a feature. The opposite behavior takes place for the long term energy forecasting. For the XGBoost model, the accuracy for both short and long term energy forecasting is higher when not using past values as a feature.
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+
+{% if 0 %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
