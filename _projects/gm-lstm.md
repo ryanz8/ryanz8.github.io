@@ -2,6 +2,7 @@
 title: "Graph Memory LSTMs: Learning Graph Relationships in Spatiotemporal Data for Time Series Forecasting"
 excerpt: "This project involved forecasting spatiotemporal time series data produced by a network of sensors. As part of it I developed a modification to LSTM for handling the long-term graph relationships present in this type of data. <br/> <img src='/images/architecture.png'>"
 collection: projects
+order: 2
 ---
 
 ## Problem
