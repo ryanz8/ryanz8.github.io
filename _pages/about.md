@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Student in the [MIB Lab](https://sites.google.com/site/tinghushomepage/) at Queen's University.
+I'm a PhD student in the [MIB Lab](https://sites.google.com/site/tinghushomepage/) at Queen's University.
 
 Previously astrophysics, now machine learning (MSc). I study interpretability in deep learning and neuroevolution with the goal of building better models for biomedicine.
 
