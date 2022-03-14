@@ -41,7 +41,3 @@ You can download the paper [here](/files/NeuronEmbedding.pdf).
 
 **Abstract**: Many statistical and machine learning models for prediction make use of historical data as an input and produce single or small numbers of output values. To forecast over many timesteps, it is necessary to run the program recursively. This leads to a compounding of errors, which has adverse effects on accuracy for long forecast periods. In this paper, we show this can be mitigated through the addition of generating features which can have an “anchoring” effect on recurrent forecasts, limiting the amount of compounded error in the long term. This is studied experimentally on a benchmark energy dataset using two machine learning models LSTM and XGBoost. Prediction accuracy over differing forecast lengths is compared using the forecasting MAPE. It is found that for LSTM model the accuracy of short term energy forecasting by using a past energy consumption value as a feature is higher than the accuracy when not using past values as a feature. The opposite behavior takes place for the long term energy forecasting. For the XGBoost model, the accuracy for both short and long term energy forecasting is higher when not using past values as a feature.
 
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-
